@@ -1,0 +1,20 @@
+{
+  "name": "ai_interviewer",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Samiksha Sahu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start":"vite",
+    "build":"build vite",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "vite": "^8.2.2"
+  },
+  "dependencies": {
+    "react": "^19.2.8"
+  }
+}
